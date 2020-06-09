@@ -1,0 +1,3 @@
+# Elasticsearch Keyword Query
+
+This is a sample project for demonstrating the keyword analyzer as referenced in https://brianthomas.blog/elasticsearch-keyword-analyzer/
